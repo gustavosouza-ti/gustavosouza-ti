@@ -1,8 +1,11 @@
 # Gustavo.dev 👨‍💻
 **Buscando Oportunidade de entrada**
 
+Me chamo Gustavo Henrique Souza Cruz, tenho 19 anos e sou natural da Bahia. Concluí o ensino médio na ETEC com formação técnica em Marketing e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISA.
 
-Me chamo Gustavo Henrique Souza Cruz, tenho 19 anos e sou natural da Bahia. Conclui o ensino médio na ETEC com  técnico integrado em Marketing. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISA. Sou fascinado em tecnologia desde pequeno e venho estudando e aprimorando meus conhecimentos para começar minha carreira na tecnologia procurando minha primeira oportunidade para demonstrar meus conhecimentos. Meu linkeldin "[Gustavo Souza Dev](linkedin.com/in/gustavosouza-ti)".
+Fascinado por tecnologia desde criança, venho dedicando meus estudos ao aprimoramento constante de habilidades técnicas. Busco minha primeira oportunidade no mercado de TI para aplicar meus aprendizados e evoluir profissionalmente.
+
+💼 **LinkedIn:** [Gustavo Souza](https://www.linkedin.com/in/gustavosouza-ti)
 
 ---
 ### Linguagens e Tecnologia 👾
