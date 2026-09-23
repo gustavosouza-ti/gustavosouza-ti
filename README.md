@@ -12,3 +12,8 @@ Fascinado por tecnologia desde criança, venho dedicando meus estudos ao aprimor
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,py,mysql,git,linux,vscode)](https://skillicons.dev)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavosouza-ti/gustavosouza-ti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavosouza-ti/gustavosouza-ti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavosouza-ti/gustavosouza-ti/output/github-contribution-grid-snake.svg">
+</picture>
