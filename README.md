@@ -1,14 +1,13 @@
-# Gustavo.dev 👨‍💻
-**Buscando Oportunidade de entrada**
+# Gustavo Souza 🖥️
 
-Me chamo Gustavo Henrique Souza Cruz, tenho 19 anos e sou natural da Bahia. Concluí o ensino médio na ETEC com formação técnica em Marketing e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISA.
+> Em Busca de inserção no mercado de TI
 
-Fascinado por tecnologia desde criança, venho dedicando meus estudos ao aprimoramento constante de habilidades técnicas. Busco minha primeira oportunidade no mercado de TI para aplicar meus aprendizados e evoluir profissionalmente.
+Desenvolvedor em formação motivado pela construção de sistemas eficientes e entendimento da infraestrutura de TI. Combino a lógica analítica do software com a visão de analítica e mercado de negócios desenvolvida na minha formação técnica.
 
-💼 **LinkedIn:** [Gustavo Souza](https://www.linkedin.com/in/gustavosouza-ti)
 
+💼 LinkedIn: "[Gustavo-TI](linkedin.com/in/gustavosouza-ti)".
 ---
-### Linguagens e Tecnologia 👾
+### Linguagens e Tecnologias 👾
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,py,mysql,git,linux,vscode)](https://skillicons.dev)
 
