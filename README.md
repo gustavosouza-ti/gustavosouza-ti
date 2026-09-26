@@ -2,7 +2,7 @@
 
 > Em Busca de inserção no mercado de TI
 
-Desenvolvedor em formação motivado pela construção de sistemas eficientes e entendimento da infraestrutura de TI. Combino a lógica analítica do software com a visão de analítica e mercado de negócios desenvolvida na minha formação técnica.
+Desenvolvedor em formação motivado pela construção de sistemas eficientes e entendimento da infraestrutura de TI. Combino a lógica analítica de software com a visão de negócios e mercado desenvolvida na minha formação técnica.
 
 
 💼 LinkedIn: "[Gustavo-TI](linkedin.com/in/gustavosouza-ti)".
