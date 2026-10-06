@@ -9,7 +9,7 @@ Desenvolvedor em formação motivado pela construção de sistemas eficientes e 
 ---
 ### Linguagens e Tecnologias 👾
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,py,mysql,git,linux,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,py,mysql,git,linux,vscode)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavosouza-ti/gustavosouza-ti/output/github-contribution-grid-snake-dark.svg">
